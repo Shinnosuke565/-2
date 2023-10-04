@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>javascript課題</title>
+    <style>
+      .todo-list {
+        margin-bottom: 20px;
+      }
+      .button {
+        margin-right: 10px;
+      }
+      .task-item {
+        margin-bottom: 5px;
+      }
+      .task-item button {
+        margin-left: 10px;
+      }
+      .completed {
+        text-decoration: line-through;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>ToDoリスト</h2>
+    <div>
+      <input type="radio" id="all" name="todo" checked />
+      <label for="all">全て</label>
+      <input type="radio" id="doing" name="todo" />
+      <label for="doing">作業中</label>
+      <input type="radio" id="done" name="todo" />
+      <label for="done">完了</label>
+    </div>
+    <div>
+      <table id="todoTable">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>コメント</th>
+            <th>状態</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- ToDoリストがここに入る -->
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h2>新規タスクの追加</h2>
+      <input type="text" id="addTask" />
+      <button id="addButton">追加</button>
+    </div>
+    <script src="main.js">
+//       const tasks = [];
+
+// document.getElementById('addButton').addEventListener('click', () => {
+//   const taskName = document.getElementById('addTask').value;
+//   tasks.push({
+//     id: tasks.length,
+//     name: taskName,
+//     state: '作業中',
+//   });
+
+//   document.getElementById('addTask').value = '';
+
+//   displayTasks();
+// });
+
+// const showWorkingRadio = document.getElementById('doing');
+// const showCompletedRadio = document.getElementById('done');
+
+// const getSelectedState = () => {
+//   if (showWorkingRadio.checked) {
+//     return '作業中';
+//   } else if (showCompletedRadio.checked) {
+//     return '完了';
+//   } else {
+//     return 'all';
+//   }
+// };
+
+// const displayTasks = () => {
+//   const selectedState = getSelectedState();
+
+//   const tbody = document.querySelector('#todoTable tbody');
+//   tbody.innerHTML = '';
+
+//   tasks.forEach((task, index) => {
+//     if (selectedState === 'all' || task.state === selectedState) {
+//       const row = tbody.insertRow(-1);
+//       row.insertCell(-1).innerText = index;
+//       row.insertCell(-1).innerText = task.name;
+//       const stateCell = row.insertCell(-1);
+
+//       const stateButton = document.createElement('button');
+//       stateButton.innerText = task.state;
+//       stateCell.appendChild(stateButton);
+
+//       stateButton.addEventListener('click', () => {
+//         if (task.state === '作業中') {
+//           task.state = '完了';
+//         } else if (task.state === '完了') {
+//           task.state = '作業中';
+//         }
+//         // タスクの状態が変更されたら再度表示
+//         displayTasks();
+//       });
+
+//       const deleteCell = row.insertCell(-1);
+//       const deleteButton = document.createElement('button');
+//       deleteButton.innerText = '削除';
+//       deleteCell.appendChild(deleteButton);
+
+//       deleteButton.addEventListener('click', () => {
+//         tasks.splice(index, 1);
+//         updateTaskIds(); // タスクを削除した後、IDを更新
+//         // タスクが削除されたら再度表示
+//         displayTasks();
+//       });
+//     }
+//   });
+// };
+
+// const updateTaskIds = () => {
+//   // タスクのIDを再計算
+//   tasks.forEach((task, index) => {
+//     task.id = index;
+//   });
+// };
+
+// // ラジオボタンのイベントリスナーを設定
+// showWorkingRadio.addEventListener('change', displayTasks);
+// showCompletedRadio.addEventListener('change', displayTasks);
+
+// // 最初に表示を行う
+// displayTasks();
+
+    </script>
+  </body>
+</html>

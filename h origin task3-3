@@ -1,0 +1,223 @@
+[33mcommit 6531fd99dc786cc26067d2c17fecb4ecce38d39b[m[33m ([m[1;36mHEAD -> [m[1;32mtask3-3[m[33m, [m[1;31morigin/task3-3[m[33m)[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sat Jul 29 17:59:00 2023 +0900
+
+    課題3-3
+
+[33mcommit 07831e5db0a2b57ef879af60724e710254c58c04[m[33m ([m[1;31morigin/task3-2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtask3-2[m[33m, [m[1;32mmaster[m[33m)[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue Jul 25 20:39:53 2023 +0900
+
+    2箇所の修正しました
+
+[33mcommit ffee485b0c2d3ad1d601c216a4e9e22f87fbc376[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sun Jul 23 16:15:03 2023 +0900
+
+    変更をコミットしました
+
+[33mcommit aab2725a42e55aecdd4af9ab0ecb30eba9e32e15[m
+Merge: bbd7f9e 7a78c25
+Author: Shinnosuke565 <76985534+Shinnosuke565@users.noreply.github.com>
+Date:   Sun Jul 23 13:08:30 2023 +0900
+
+    Merge branch 'master' into task3-2
+
+[33mcommit bbd7f9ea193afea75e2d5354467d048fad967fb6[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Mon Jul 17 15:08:52 2023 +0900
+
+    タスク削除機能の追加
+
+[33mcommit 7a78c25c15319c37e3b9799c3536c98862747357[m
+Merge: 563bbc0 0de26b3
+Author: Shinnosuke565 <76985534+Shinnosuke565@users.noreply.github.com>
+Date:   Mon Jul 17 14:09:56 2023 +0900
+
+    Merge pull request #6 from Shinnosuke565/develop
+    
+    課題できました。マージします。
+
+[33mcommit 0de26b36e1c53f64216568b873bf7491f2d64023[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sun Jul 16 10:05:24 2023 +0900
+
+    コメント削除
+
+[33mcommit 199907a6c3d3d33f19a206672886088cfec6317f[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sat Jul 15 11:03:06 2023 +0900
+
+    修正しました。
+
+[33mcommit 15741bec84a9c59001bda0390a99ad2bbd3bb5c1[m
+Merge: ac52724 11bf539
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue Jul 4 16:23:24 2023 +0900
+
+    再修正しました
+
+[33mcommit ac527243352bdcd8d2cc243f2f20a940116f5f44[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sun Jul 2 11:27:13 2023 +0900
+
+    学習しました
+
+[33mcommit 11bf53926f7e29a2a0bcf01716e60778c270e0e5[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Mon Jun 26 21:54:42 2023 +0900
+
+    課題できました
+
+[33mcommit 563bbc0df0f38cc544adfb88e0b7e74fa46a0a3c[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Thu Jun 15 14:19:43 2023 +0900
+
+    プルしました。
+
+[33mcommit e1a0755844dc2ce46425475cdb3bb1636682f74b[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Thu Jun 15 14:08:40 2023 +0900
+
+    プルしました
+
+[33mcommit d8471d26f4d12fabcc13a82a8bdea2128ecc4907[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Thu Jun 8 12:00:06 2023 +0900
+
+    ｐｒ確認いたしました。
+
+[33mcommit adb57ac3cb14c3440b42a7b660256ef6a2654b1f[m
+Merge: 54411fb c042f20
+Author: Shinnosuke565 <76985534+Shinnosuke565@users.noreply.github.com>
+Date:   Wed Mar 22 15:13:49 2023 +0900
+
+    Merge pull request #3 from Shinnosuke565/devlop
+    
+    課題完了
+
+[33mcommit c042f20ca8a5284760a198f40eaf5a12edb96bf8[m[33m ([m[1;31morigin/devlop[m[33m)[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Thu Mar 16 13:05:59 2023 +0900
+
+    課題修正しました
+
+[33mcommit d5046298d874c4286ce81e63d76023368f6cac56[m
+Merge: 5bfd35b 54411fb
+Author: Shinnosuke565 <76985534+Shinnosuke565@users.noreply.github.com>
+Date:   Tue Mar 7 16:19:24 2023 +0900
+
+    Merge pull request #2 from Shinnosuke565/master
+    
+    Merge pull request #1 from Shinnosuke565/develop
+
+[33mcommit 5bfd35b722e692b66553260a2514db8a7c1097ba[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue Mar 7 16:13:16 2023 +0900
+
+    ok
+
+[33mcommit d3137dce608ea5090af7edee43a3e3b03923f66a[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue Mar 7 15:48:32 2023 +0900
+
+    完成
+
+[33mcommit 146583476c61ab1b71854a02ee4aaa70519bff92[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue Mar 7 13:13:26 2023 +0900
+
+    完成
+
+[33mcommit 680c7aab6a51fd54d74215968f7999fbba68b6d8[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Thu Jul 14 21:55:40 2022 +0900
+
+    課題完了
+
+[33mcommit 54411fb3ee8a57cf85477b1d3ddb7fb5d43eec15[m
+Merge: 4b1020e 91a560a
+Author: Shinnosuke565 <76985534+Shinnosuke565@users.noreply.github.com>
+Date:   Tue Jul 12 07:42:05 2022 +0900
+
+    Merge pull request #1 from Shinnosuke565/develop
+    
+    課題①ー３に取り組みました
+
+[33mcommit 91a560ae8924c50a46a9a3655eb1c485e0bf616f[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Fri Jul 8 20:40:11 2022 +0900
+
+    関数名修正
+
+[33mcommit 993988086fa70a2afe53b31c0cc700b4cf1b2379[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Mon Jul 4 21:29:17 2022 +0900
+
+    題修正しました
+
+[33mcommit f165eb4518ddf28ec18f551e8ab34293948b0fb6[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sun Jun 26 11:07:08 2022 +0900
+
+    課題修正しました
+
+[33mcommit 5ec0914af07986f903ce2b88d06c18f2e7efa647[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sun Jun 19 14:14:47 2022 +0900
+
+    課題修正しました
+
+[33mcommit e04c66148135bd91daa4f8546397501e06d37e68[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Wed Jun 15 18:47:52 2022 +0900
+
+    課題修正しました
+
+[33mcommit c8ed4f67f496095a2c1e6d2b20d1cc10d3478a95[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue May 31 11:00:43 2022 +0900
+
+    課題修正しました。
+
+[33mcommit 71ef19a143b0258c4c7292ce483c7d3d4e0ef9e1[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Sun May 29 10:50:07 2022 +0900
+
+    課題修正しました。
+
+[33mcommit 59255f6502f84e976b7bd4429eaacdcb10a9f576[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Fri May 27 12:57:26 2022 +0900
+
+    修正しました
+
+[33mcommit 064ec985b97259efb12e687f2df9514d4f6544b8[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Wed May 25 14:31:44 2022 +0900
+
+    課題修正しました。
+
+[33mcommit 7e920ef8fb264e453b682c353517388e6da6a3be[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Tue May 24 15:47:58 2022 +0900
+
+    題修正しました
+
+[33mcommit e804e47328e3fe52ed05b673fd042136683f54a2[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Fri May 13 17:15:09 2022 +0900
+
+    課題修正しました
+
+[33mcommit 0c7121083460083c0e1fae0becc738784f1d83f3[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Fri Apr 29 14:08:27 2022 +0900
+
+    課題完了
+
+[33mcommit 4b1020ed3af354bb5dc93458e01b3bbbbe90ea2d[m
+Author: shinnosuke565 <damking420@gmail.com>
+Date:   Mon Apr 18 15:24:53 2022 +0900
+
+    first commit
